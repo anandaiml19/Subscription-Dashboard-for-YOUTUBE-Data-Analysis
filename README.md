@@ -10,7 +10,7 @@ alt="tableau" width="55" height="40"/> </a> </h1>
 
 • Data cleaning is performed using Excel
 
-• Developed a Tableau Dashboard to perform analysis, producing quantitative visualization in Tableau to determine the top 10 rank channels.
+• Developed a Tableau Dashboard to perform analysis, producing quantitative visualization in Tableau to determine the top 10 rank.
 
 ## Project - YOUTUBE Subscription Dashboard - Data Analysis performed on Tableau 
 <p align="center"><img src="https://github.com/anandaiml19/Subscription-Dashboard-for-YOUTUBE-Data-Analysis/blob/main/Youtube1.PNG"alt="Tableau" width="600" height="380"/> </a> </h1>
@@ -22,6 +22,22 @@ alt="tableau" width="55" height="40"/> </a> </h1>
 - Q2. Top 10 channels by subscription.
   
 - Q3. Which category of channels are mostly watched?
+
+### Approach - Project Planning & [Aims Grid](https://www.youtube.com/watch?v=6118I9HViuQ)
+  
+#### 1. Purpose: What? Why? What do we want to achieve?
+People involvment with the YOUTUBE platform, and identify key areas of improvement for other youtubers.
+Top 10 mostly watched channel.
+
+#### 2. End Result: What do we want to achieve?
+An automated dashboard providing quick & latest subscription insights .
+
+#### 3. Success Criteria: What will be our success criteria?
+Key metrics, category wise video and video count can help to improve the Youtuber performance.
+
+## Project References: 🔗
+[YOUTUBE DATA ANALYSIS](https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube-channels)
+ 
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/anandaiml19):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 ##For any doubts/queries 🔗 👇
