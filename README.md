@@ -1,5 +1,5 @@
 <h1 align="center">Subscription Dashboard for YOUTUBE Data Analysis using Tableau
-<a href="https://public.tableau.com/app/profile/krishna.anand7092" target="_blank" rel="noreferrer">
+<a href="https://public.tableau.com/views/YOUTUBEDASHBOARDextract/youtube?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer">
 <img src="https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/Tableau.jpg" 
 alt="tableau" width="55" height="40"/> </a> </h1>
 
@@ -13,6 +13,9 @@ alt="tableau" width="55" height="40"/> </a> </h1>
 • Developed a Tableau Dashboard to perform analysis, producing quantitative visualization in Tableau to determine the top 10 rank.
 
 ## Project - YOUTUBE Subscription Dashboard - Data Analysis performed on Tableau 
+
+[Tableau Dashboard link](https://public.tableau.com/app/profile/krishna.anand7092)
+
 <p align="center"><img src="https://github.com/anandaiml19/Subscription-Dashboard-for-YOUTUBE-Data-Analysis/blob/main/Youtube1.PNG"alt="Tableau" width="600" height="380"/> </a> </h1>
 
 ### Problem Statements
